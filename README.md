@@ -12,3 +12,4 @@ A real-time chat application utilizing **Socket.io** for real-time communication
 - **Node.js** and **npm** must be installed.
 ### Steps:
 1. Clone the repository:
+ ```bash
