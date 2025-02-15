@@ -15,3 +15,10 @@ A real-time chat application utilizing **Socket.io** for real-time communication
  ```bash
   git clone https://github.com/tamarkilasonia/Real-time-Collaborative-Whiteboard.git
 cd Real-time-Collaborative-Whiteboard
+
+Install dependencies:
+
+bash
+Copy
+Edit
+npm install
