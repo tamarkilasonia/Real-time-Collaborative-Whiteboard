@@ -5,3 +5,4 @@ A real-time chat application utilizing **Socket.io** for real-time communication
 ## Features
 - **Real-time messaging**: Seamlessly send and receive messages across multiple users.
 - - **Socket.io integration**: WebSocket-based communication for efficient message broadcasting.
+- **Frontend**: Simple, responsive UI built with vanilla HTML and JavaScript.
