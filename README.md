@@ -3,3 +3,4 @@
 A real-time chat application utilizing **Socket.io** for real-time communication, **Node.js** as the server runtime, and **HTML/JavaScript** for the front-end.
 
 ## Features
+- **Real-time messaging**: Seamlessly send and receive messages across multiple users.
