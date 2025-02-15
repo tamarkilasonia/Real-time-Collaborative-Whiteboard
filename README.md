@@ -10,3 +10,4 @@ A real-time chat application utilizing **Socket.io** for real-time communication
 ## Installation & Setup
 ### Prerequisites:
 - **Node.js** and **npm** must be installed.
+### Steps:
