@@ -8,3 +8,4 @@ A real-time chat application utilizing **Socket.io** for real-time communication
 - **Frontend**: Simple, responsive UI built with vanilla HTML and JavaScript.
 - 
 ## Installation & Setup
+### Prerequisites:
