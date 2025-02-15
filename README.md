@@ -14,3 +14,4 @@ A real-time chat application utilizing **Socket.io** for real-time communication
 1. Clone the repository:
  ```bash
   git clone https://github.com/tamarkilasonia/Real-time-Collaborative-Whiteboard.git
+cd Real-time-Collaborative-Whiteboard
