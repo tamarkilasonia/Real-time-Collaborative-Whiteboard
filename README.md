@@ -17,6 +17,7 @@ A real-time chat application utilizing **Socket.io** for real-time communication
 cd Real-time-Collaborative-Whiteboard
 
 Install dependencies:npm install
+Run the server:npm start
 
 
 
