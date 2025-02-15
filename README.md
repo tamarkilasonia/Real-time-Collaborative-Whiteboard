@@ -18,15 +18,4 @@ cd Real-time-Collaborative-Whiteboard
 
 Install dependencies:
 
-bash
-Copy
-Edit
-npm install
 
-Run the server:
-
-bash
-Copy
-Edit
-npm start
-The application will be available at http://localhost:3000.
