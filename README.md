@@ -22,6 +22,6 @@ Run the server:npm start
 
 How It Works
 The server uses Socket.io to listen for incoming messages and broadcast them to all connected clients in real-time.
-The client-side JavaScript listens for message events and dynamically updates the UI.
+The client-side JavaScript listens fpr message events and dynamically updates the UI.
 
 
