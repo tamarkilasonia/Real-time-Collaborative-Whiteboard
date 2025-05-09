@@ -13,7 +13,7 @@ A real-time chat application utilizing **Socket.io** for real-time communication
 ### Steps:
 1. Clone the repository:
  ```bash
-  git clone https://github.com/tamarkilasonia/Real-time-Collaborative-Whiteboard.git
+ git clone https://github.com/tamarkilasonia/Real-time-Collaborative-Whiteboard.git
 cd Real-time-Collaborative-Whiteboard
 
 
@@ -23,5 +23,4 @@ Run the server:npm start
 How It Works
 The server uses Socket.io to listen for incoming messages and broadcast them to all connected clients in real-time.
 The client-side JavaScript listens fpr message events and dynamically updates the UI.
-
 
